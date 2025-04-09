@@ -1,5 +1,4 @@
- 
-const Player = (name, marker) => {
+ const Player = (name, marker) => {
     return { name, marker };
   };
   
